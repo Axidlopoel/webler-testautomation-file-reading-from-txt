@@ -1,0 +1,54 @@
+1;Leiner Laura;Nélküled;L&L Kiadó;2016;RE-1436*
+2;Zindel Segal, Mark Williams, John Teasdale;Tudatos jelenét a gyakorlatban;Kulcslyuk Kiadó;2019;IT-1673
+1;Grecsó Krisztián;Jelmezbál;Magvető Könyvkiadó;2014;RE-4679
+1;Leslie Lawrence;Homokvihar I.;Studim Plussz Könyvkiadó;2000;RE-0017
+1;Leslie Lawrence;Homokvihar II.;Studim Plussz Könyvkiadó;2004;RE-0146
+3;Bartos Erika;Bogyó és Babóca virágai;Pozsonyi Pagony;2001;ME-1493
+2;Niegel C. Benson, Marcus Weeks, Voula Grand, Jonnah Ginsburg, Merrin Layzan;A pszichológia nagykönyve;HVG Könyvek Kiadó;2011;IT-1434
+1;Szabó Péter;Állj félre a saját utadból!;Magánkiadás;2020;RE-2014
+1;Ördög Nóra;Pozitív;Libri Könyvkiadó;2010;RE-1018
+1;J. M. Gottman, Joan DeClaire;Gyerekek érzelmi intelligenciája;Jaffa Kiadó;2014;RE-1473
+1;Lakatos Levente;A tiltás gyönyöre- Szigor I. kötet;Libri Könyvkiadó;2014;RE-1647
+1;Fábián Janka;Az utolsó boszorkány történetei;Libri Könyvkiadó;2015;RE-1797
+4;Diana Gabaldon;Outlander 3. Az utatzó I. kötet;Könyvmolyképző Kiadó Kft.;2010;KR-1468
+4;Diana Gabaldon;Outlander 3. Az utatzó II. kötet;Könyvmolyképző Kiadó Kft.;2012;KR-6795
+5;Borsa Brown;Az Arab szeretője;Álomgyár Kiadó;2016;RO-3456
+6;Carol Vorderman;Programozás gyerekeknek;HVG Könyvek Kiadó;2021;II-1647
+7;Beck Andrea;A Titoktündér;Beck & Partners Mi. Kft.;2016;IR-6497
+8;Steve Berry;A Lincoln-mítosz;Gabó Kiadó;2002;SC-6418
+7;Beck Andrea;A Titoktündér- Családi Könyv;Beck & Partners Mi. Kft.;2020;IR-6379
+1;Szentesi Éva;Hamvaimból;Athenaeum Kiadó;2014;RE-6879
+2;Vianna Stibal;ThetaHealing Ritmus - Álomsúly könnyedén;Bioenergetic Kft.;2016;IT-5476
+1;Paula Hawkins;A lány a vonaton;XXI. Század Kiadó Kft.;2014;RE-3249
+1;Nicholas Sparks;Engem Láss;General Press Kiadó;2016;RE-6497*
+1;Katie Fforde;Tökéletes esküvű;Libri Könyvkiadó;2017;RE-6495*
+1;Danielle Steel;Rejtőzködve;MAECENAS KÖNYVKIADÓ KFT.;2003;RE-1657
+1;Danielle Steel;A gyűrű;MAECENAS KÖNYVKIADÓ KFT.;2005;RE-1017
+1;Danielle Steel;Palomino;MAECENAS KÖNYVKIADÓ KFT.;2004;RE-0014
+1;Danielle Steel;Vele vagy nélküle;MAECENAS KÖNYVKIADÓ KFT.;2006;RE-3467
+1;Danielle Steel;Egy tökéletes idegen;MAECENAS KÖNYVKIADÓ KFT.;2008;RE-5472*
+1;Danielle Steel;Szerelmes nyárutó;MAECENAS KÖNYVKIADÓ KFT.;2007;RE-3667
+1;Udo Ulfkotte;A menekültipar;Patmos Records;2011;RE-3497
+2;Kotra Károly;Interaktív KRESZ könyv személygépkocsivezetők részére;KONTRA Kereskedelmi és Oktató Kft.;2019;IT-6474
+3;Johanna Basford;Titkos Kert- Színezőköhnyv mesébe illő rajzokkal;Manó Könyvek;2014;ME-6487
+8;Elizabeth Gilbert;Big Magic;Partvonal Könyvkiadó;2016;SC-6488
+1;Borsa Brown;Az Arab;Álomgyár Kiadó;2020;RE-6749
+1;R. Kelényi Angelika;Szulejmán és a magyar udvarhölgy;Álomgyár Kiadó;2019;RE-9974
+1;Gideon Greif;Könyvek nélkül sírtunk;Európa Könyvkiadó;2014;RE-6499
+8;Háy János;Ország, város, fiú, lány;Európa Könyvkiadó;2015;SC-6679
+8;Umberto Eco;Mutatványszám;Európa Könyvkiadó;2017;SC-6998
+8;Clint Emerson;100 halálos technika - a túléléshez;21.század Kiadó;2017;SC-8755
+3;Gróh Ilona;Ringató- Szunnyadj, kisbaba;KOLIBRI GYERMEKKÖNYVKIADÓ KFT.;1999;ME-6797
+5;Viktor E. Frankl;... mégis mondj igent az életre!;Jel Kiadó;2019;RO-9987
+5;Szendi Gábor;A férfi hanyatlása és bukása;Jaffa Kiadó;1997;RO-3457
+2;Lantos Mihály;Villámolvasás a gyakorlatban - Átdolgozott kiadás;Bioenergetic Kft.;2014;IT-6494
+2;Vekerdy Tamás;Kisgyerekek - óvodások;Central Médiacsoport Zrt.;2019;IT-6687
+3;Dr. Seuss;Kalapos Macska;KOLIBRI GYERMEKKÖNYVKIADÓ KFT.;2001;ME-3349
+5;Szvetlana Alekszijevics;Csernobili ima;Európa Könyvkiadó;1998;RO-1679*
+1;Giulia Enders;Bélügyek;Parks Kiadó;1998;RE-1689*
+9;Pietsch Tibor, Dárdai Pál;Dárdai Pál könyve;Alexandra Kiadó;2001;OR-1176
+3;Több szerző (Gyuricza Eszter szerkesztésében);100 magyar népmese;Alexandra Kiadó;1974;ME-1164
+10;Jeffrey Archer;Ütött az óra;General Press Kiadó;2014;KR-3946
+10;Elizabeth Adler;Gyilkosság a tengeren;Libri Könyvkiadó;2013;KR-1677
+10;Philip Zimbardo, Nikita D. Coulombe;Nincs kapcsolat;Libri Könyvkiadó;2012;KR-6640
+8;Anna Banks;Neptun;Maxim Könyvkiadó;2012;SC-0196*

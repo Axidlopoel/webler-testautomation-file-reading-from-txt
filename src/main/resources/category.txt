@@ -1,0 +1,10 @@
+1;regény
+2;ismeretterjesztő
+3;mese
+4;kalandregény
+5;romantikus
+6;ifjúsági ismeretterjesztő
+7;ifjúsági kisregény
+8;sci-fi
+9;önéletrajzi
+10;krimi
